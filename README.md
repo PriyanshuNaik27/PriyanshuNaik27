@@ -29,6 +29,6 @@
 
 <br/>
 
-[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuNaik27)](https://github.com/PriyanshuNaik27/github-readme-stats)
+
 
 
