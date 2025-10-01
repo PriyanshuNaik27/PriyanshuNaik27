@@ -5,8 +5,7 @@
 </h1>
 
 <div align="center">
- 
-<h1>Coding is Confusing  </h1>
+
  </div>
 
  <div align="center"> 
